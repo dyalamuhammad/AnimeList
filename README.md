@@ -23,3 +23,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## project desc
 
 This is my first project next js base on tutorial by Dea Afrizal on Youtube
+The API I use is sourced from https://jikan.moe/
